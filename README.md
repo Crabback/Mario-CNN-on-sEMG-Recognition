@@ -1,8 +1,6 @@
 # Enhanced sEMG Signals Process with Mario CNN on Gesture Classification
 
-ESE 546 Fall 2021 Final Project
-
-Team 29: Hao Dong, Yuxin Wang, Zhengjia Mao
+Collaborators: Zhengjia Mao, Hao Dong, Yuxin Wang
 
 **Abstract**
 
